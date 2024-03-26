@@ -1,3 +1,5 @@
+# <p style="text-align: center;">Experiences with Audit Logging through Hibernate Interceptor</p>
+
 In our current project, we make use of the Hibernate Interceptor to perform auditing and track operations performed with 
 our domain objects. Initially, we simply followed the instructions in the Hibernate In Action book. Basically, the steps 
 are as follows:
