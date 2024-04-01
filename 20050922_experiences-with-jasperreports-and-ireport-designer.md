@@ -55,4 +55,7 @@ widths of HTML elements, resulting in HTML pages that do not look good on every 
 Additionally, we were unable to achieve exactly the same report output with PDF and HTML formats. While the PDF format 
 generally looks better, it also has some minor bugs.
 
-Ideally, we should be able to export HTML output to a temporary file destination specified with java.io.File. For example, we could generate report output and save it to a file, which would be automatically removed when the JVM terminates. This is easily possible with the JDK IO API, but the JasperExportManager API currently only accepts string filenames as report output destinations, not java.io.File input parameters.
+Ideally, we should be able to export HTML output to a temporary file destination specified with java.io.File. For example, 
+we could generate report output and save it to a file, which would be automatically removed when the JVM terminates. This 
+is easily possible with the JDK IO API, but the JasperExportManager API currently only accepts string filenames as report 
+output destinations, not java.io.File input parameters.
