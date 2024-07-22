@@ -1,3 +1,4 @@
+# 4 Temmuz’da İstanbul’daydık
 CETÜRK bünyesinde düzenlediğimiz etkinliklerin devamında **4 Temmuz 2009 Cumartesi günü İstanbul’daydık**. Aslında bu 
 etkinlik `13 Haziran’da` Ankara’da düzenlediğimiz `Java Teknolojileri Etkinliği`’nin bir tekrarı oldu.
 
