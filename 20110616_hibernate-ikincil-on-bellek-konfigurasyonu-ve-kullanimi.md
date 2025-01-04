@@ -1,0 +1,1 @@
+# Hibernate İkincil Ön Bellek Konfigürasyonu ve Kullanımı

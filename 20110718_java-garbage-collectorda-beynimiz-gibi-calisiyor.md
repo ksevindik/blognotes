@@ -1,0 +1,1 @@
+# Java Garbage Collector'da Beynimiz Gibi Çalışıyor

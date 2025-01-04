@@ -1,0 +1,1 @@
+# Soyutlama Heryerde

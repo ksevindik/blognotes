@@ -1,0 +1,1 @@
+# Hibernate İkincil Önbellek Eşzamanlı Erişim Stratejileri
