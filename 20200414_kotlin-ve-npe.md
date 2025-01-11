@@ -1,0 +1,1 @@
+# Kotlin ve NPE

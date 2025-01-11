@@ -1,0 +1,1 @@
+# Hibernate EntityCopyObserver: What Is It Used For?
