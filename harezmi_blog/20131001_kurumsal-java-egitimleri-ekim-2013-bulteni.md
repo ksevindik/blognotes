@@ -1,0 +1,1 @@
+# Kurumsal Java Eğitimleri Ekim 2013 Bülteni

@@ -1,0 +1,1 @@
+# Tasarım Prensipleri ve Tasarım Örüntülerine Giriş Seminerleri
